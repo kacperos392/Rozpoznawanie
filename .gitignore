@@ -1,0 +1,7 @@
+venv/
+Data/
+models/*.keras
+outputs/*.npy
+__pycache__/
+*.pyc
+.DS_Store
